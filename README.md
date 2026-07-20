@@ -81,6 +81,3 @@ Open the printed local URL (typically `http://127.0.0.1:7860`) in your browser.
 - **scikit-learn** — evaluation metrics and preprocessing utilities
 - **NLTK** — stopword removal and lemmatization
 
-## Notes
-
-- Model weights are tracked with **Git LFS** due to file size (~255MB). Make sure `git-lfs` is installed before cloning: `git lfs install`
